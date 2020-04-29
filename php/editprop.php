@@ -21,5 +21,6 @@
 			echo "405";
 		}
 	}
+	http://www.gitmedio.com/gitmedio/instalar-y-configurar-php-7-y-apache-mysql/
 
 ?>
