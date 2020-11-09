@@ -12,7 +12,7 @@
 			<input name="Login_Pass" type="password" placeholder="Contraseña" required>
 			<select name="proyect">
 				<?php
-					$conexion = new mysqli("localhost", "id6080374_sergioribera", "60030950Sarc15", "id6080374_usuarios");
+					$conexion = new mysqli("localhost", "user", "pass", "database");
 					if(mysqli_connect_error()){
 						echo '404';
 					}else{
